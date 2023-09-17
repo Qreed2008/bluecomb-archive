@@ -1,0 +1,17 @@
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.rc {
+  border-radius: 25px;
+  background: #cfcfcf;
+  padding: 20px;
+  border: 2px solid;
+}
+.fo::before {
+  content: url("https://qreed2008.github.io/ms-links-index/folder.png");
+}
+.fi::before {
+  content: url("https://qreed2008.github.io/ms-links-index/file.png");
+}
