@@ -1,2 +1,4 @@
 # bluecomb-archive
 Archive of a bunch of stuff that I feel like archiving
+
+Yes, all links here are on Internet Archive (or Wayback, which is owned by the same group so it kinda counts). I do not have really anywhere else to conveniently put it.
